@@ -1,1 +1,1 @@
-# freelencer
+# Freelancer
